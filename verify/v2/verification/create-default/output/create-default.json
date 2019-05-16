@@ -17,7 +17,7 @@
       "type": "mobile"
     }
   },
-  "amount": null,
-  "payee": null,
+  "amount": "$29.99",
+  "payee": "Acme",
   "url": "https://verify.twilio.com/v2/Services/VAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/Verifications/VEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 }

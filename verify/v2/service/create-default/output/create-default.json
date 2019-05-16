@@ -1,7 +1,7 @@
 {
   "sid": "VAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
   "account_sid": "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-  "friendly_name": "FriendlyName",
+  "friendly_name": "name",
   "code_length": 4,
   "lookup_enabled": false,
   "psd2_enabled": false,

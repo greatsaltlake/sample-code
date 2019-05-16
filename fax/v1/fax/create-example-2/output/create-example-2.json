@@ -5,7 +5,7 @@
   "date_updated": "2015-07-30T20:00:00Z",
   "direction": "outbound",
   "from": "Jack",
-  "media_url": "https://www.twilio.com/docs/documents/25/justthefaxmaam.pdf",
+  "media_url": null,
   "media_sid": null,
   "num_pages": null,
   "price": null,

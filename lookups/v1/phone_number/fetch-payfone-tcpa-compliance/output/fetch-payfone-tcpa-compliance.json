@@ -21,7 +21,7 @@
         "message": null,
         "code": null,
         "result": {
-          "Status": "0",
+          "Status": 0,
           "Response": {
             "MSISDNType": "NonFixedVoIP",
             "NumberMatch": "I",
